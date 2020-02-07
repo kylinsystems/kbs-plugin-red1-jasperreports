@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: KBS Plugin : RED1 NiemcorJasperReports
+Bundle-SymbolicName: com.kylinsystems.kbs.plugins.red1.jasperreports;singleton:=true
+Bundle-Version: 7.1.0.qualifier
+Bundle-Vendor: KBS
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-Activator: org.adempiere.plugin.utils.Incremental2PackActivator
+Require-Bundle: org.adempiere.plugin.utils;bundle-version="0.0.0",
+ com.kylinsystems.kbs.odt;bundle-version="0.0.0"
+Bundle-ActivationPolicy: lazy
+Automatic-Module-Name: com.kylinsystems.kbs.plugins.red1.jasperreports
