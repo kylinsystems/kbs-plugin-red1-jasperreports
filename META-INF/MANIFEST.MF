@@ -5,7 +5,7 @@ Bundle-SymbolicName: com.kylinsystems.kbs.plugins.red1.jasperreports;singleton:=
 Bundle-Version: 7.1.0.qualifier
 Bundle-Vendor: KBS
 Bundle-RequiredExecutionEnvironment: JavaSE-11
-Bundle-Activator: org.adempiere.plugin.utils.Incremental2PackActivator
+Bundle-Activator: com.kylinsystems.kbs.odt.ODT2PackActivator
 Require-Bundle: org.adempiere.plugin.utils;bundle-version="0.0.0",
  com.kylinsystems.kbs.odt;bundle-version="0.0.0"
 Bundle-ActivationPolicy: lazy

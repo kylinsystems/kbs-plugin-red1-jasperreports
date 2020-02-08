@@ -12,3 +12,8 @@ Please refer to https://wiki.idempiere.org/en/Plugin:_JasperReports
 
 ## How to use
 
+Business Reports
+
+## Fixing
+
+https://idempiere.atlassian.net/browse/IDEMPIERE-4169
